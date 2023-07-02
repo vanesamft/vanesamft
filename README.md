@@ -11,7 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+<p align=”center”>
+
+<img width="1834" alt="Make your README (2)" src="https://github.com/vanesamft/vanesamft/assets/102466735/dd9cc75e-e3fd-4b68-924a-f9857c376d3b.png">
+
+</p>
 <h1 align="center">Hi there 👋, I'm Vanesa Myftari</h1>
 <h3 align="center">👨‍💻 Computer Engineering Graduate | Front-end Developer | Passionate About Web Development</h3>
 
