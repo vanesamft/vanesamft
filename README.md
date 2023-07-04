@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Constant Learner
 
 - 💻 Personal Projects: </br>
-While I don't have professional work experience yet, I've been actively working on personal projects to enhance my coding skills and showcase my abilities as a front-end developer.
+I've been actively working on personal projects to enhance my coding skills and showcase my abilities as a front-end developer.
 - 👨‍💻 All of my projects are available at [vanesamyftari.com](vanesamyftari.com)
 
 🌟 Technical Skills:
