@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 <p align=”center”>
 
-<img width="1834" alt="Make your README (2)" src="https://github.com/vanesamft/vanesamft/assets/102466735/dd9cc75e-e3fd-4b68-924a-f9857c376d3b.png">
 
 </p>
 <h1 align="center">Hi there 👋, I'm Vanesa Myftari</h1>
